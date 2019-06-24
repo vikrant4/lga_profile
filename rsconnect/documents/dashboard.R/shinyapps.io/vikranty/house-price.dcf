@@ -1,0 +1,13 @@
+name: house-price
+title: house-price
+username:
+account: vikranty
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 540029
+bundleId: 1677630
+url: https://vikranty.shinyapps.io/house-price/
+when: 1541125919.022
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: code.R|Data Sheet.xlsx|merge.csv|report.pdf|report.Rmd|test.R|test2.R|vmlite_lga_cm.shp
